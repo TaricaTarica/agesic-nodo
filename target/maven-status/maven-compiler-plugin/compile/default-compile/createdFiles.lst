@@ -1,0 +1,8 @@
+controladores\ControladorPersonaLocal.class
+datos\DatosPersonaLocal.class
+entidades\Persona.class
+servlets\ListarPersonas.class
+datos\DatosPersona.class
+controladores\ControladorPersona.class
+datatypes\DTPersona.class
+servicios\ServicioAgesic.class

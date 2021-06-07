@@ -107,11 +107,7 @@
 
     <dependencyManagement>
         <dependencies>
-		<dependency>
-		    <groupId>javax.jws</groupId>
-		    <artifactId>javax.jws-api</artifactId>
-		    <version>1.1</version>
-		</dependency>
+		
             <!-- JBoss distributes a complete set of Jakarta EE 8 APIs including
                 a Bill of Materials (BOM). A BOM specifies the versions of a "stack" (or 
                 a collection) of artifacts. We use this here so that we always get the correct 
@@ -202,6 +198,12 @@
             <artifactId>arquillian-protocol-servlet</artifactId>
             <scope>test</scope>               
         </dependency>
+        
+        <dependency>
+		    <groupId>javax.jws</groupId>
+		    <artifactId>javax.jws-api</artifactId>
+		    <version>1.1</version>
+		</dependency>
     </dependencies>
 	
     <build>

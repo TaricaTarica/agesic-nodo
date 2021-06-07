@@ -1,8 +1,8 @@
-/home/tarica/agesic-workspace/agesic-nodo/src/main/java/entidades/Persona.java
-/home/tarica/agesic-workspace/agesic-nodo/src/main/java/servicios/ServicioAgesic.java
-/home/tarica/agesic-workspace/agesic-nodo/src/main/java/controladores/ControladorPersona.java
-/home/tarica/agesic-workspace/agesic-nodo/src/main/java/datos/DatosPersona.java
-/home/tarica/agesic-workspace/agesic-nodo/src/main/java/datatypes/DTPersona.java
-/home/tarica/agesic-workspace/agesic-nodo/src/main/java/datos/DatosPersonaLocal.java
-/home/tarica/agesic-workspace/agesic-nodo/src/main/java/controladores/ControladorPersonaLocal.java
-/home/tarica/agesic-workspace/agesic-nodo/src/main/java/servlets/ListarPersonas.java
+C:\Users\ant_o\eclipse-workspace\agesic-nodo\src\main\java\entidades\Persona.java
+C:\Users\ant_o\eclipse-workspace\agesic-nodo\src\main\java\datatypes\DTPersona.java
+C:\Users\ant_o\eclipse-workspace\agesic-nodo\src\main\java\datos\DatosPersonaLocal.java
+C:\Users\ant_o\eclipse-workspace\agesic-nodo\src\main\java\servicios\ServicioAgesic.java
+C:\Users\ant_o\eclipse-workspace\agesic-nodo\src\main\java\controladores\ControladorPersona.java
+C:\Users\ant_o\eclipse-workspace\agesic-nodo\src\main\java\datos\DatosPersona.java
+C:\Users\ant_o\eclipse-workspace\agesic-nodo\src\main\java\controladores\ControladorPersonaLocal.java
+C:\Users\ant_o\eclipse-workspace\agesic-nodo\src\main\java\servlets\ListarPersonas.java
