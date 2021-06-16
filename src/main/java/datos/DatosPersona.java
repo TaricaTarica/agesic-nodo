@@ -47,25 +47,25 @@ public class DatosPersona implements DatosPersonaLocal {
     	/* 
     	   Riesgo 
     	*/
-    	Persona p1 = new Persona(995234, LocalDate.parse("19-02-1930", formatter), "Riesgo");
+    	Persona p1 = new Persona(87886895, LocalDate.parse("19-02-1930", formatter), "Riesgo");
     	this.personas.add(p1);
-    	Persona p3 = new Persona(1704998, LocalDate.parse("04-02-1950", formatter), "Riesgo");
+    	Persona p3 = new Persona(48778831, LocalDate.parse("04-02-1950", formatter), "Riesgo");
     	this.personas.add(p3);
-    	Persona p4 = new Persona(4118008, LocalDate.parse("11-10-1956", formatter), "Riesgo");
+    	Persona p4 = new Persona(76115029, LocalDate.parse("11-10-1956", formatter), "Riesgo");
     	this.personas.add(p4);
-    	Persona p5 = new Persona(3711927, LocalDate.parse("11-10-1960", formatter), "Riesgo");
+    	Persona p5 = new Persona(94529757, LocalDate.parse("11-10-1960", formatter), "Riesgo");
     	this.personas.add(p5);
-    	Persona p6 = new Persona(1842343, LocalDate.parse("03-06-1969", formatter), "Riesgo");
+    	Persona p6 = new Persona(54007698, LocalDate.parse("03-06-1969", formatter), "Riesgo");
     	this.personas.add(p6);
-    	Persona p7 = new Persona(1844698, LocalDate.parse("14-01-1961", formatter), "Riesgo");
+    	Persona p7 = new Persona(69120340, LocalDate.parse("14-01-1961", formatter), "Riesgo");
     	this.personas.add(p7);
-    	Persona p8 = new Persona(4308037, LocalDate.parse("16-03-1963", formatter), "Riesgo");
+    	Persona p8 = new Persona(40993582, LocalDate.parse("16-03-1963", formatter), "Riesgo");
     	this.personas.add(p8);
-    	Persona p9 = new Persona(1160780, LocalDate.parse("25-12-1965", formatter), "Riesgo");
+    	Persona p9 = new Persona(69199416, LocalDate.parse("25-12-1965", formatter), "Riesgo");
     	this.personas.add(p9);
-    	Persona p10 = new Persona(3069642, LocalDate.parse("17-07-1969", formatter), "Riesgo");
+    	Persona p10 = new Persona(67806748, LocalDate.parse("17-07-1969", formatter), "Riesgo");
     	this.personas.add(p10);
-    	Persona p11 = new Persona(1562739, LocalDate.parse("04-02-1971", formatter), "Riesgo");
+    	Persona p11 = new Persona(65504203, LocalDate.parse("04-02-1971", formatter), "Riesgo");
     	this.personas.add(p11);
 
     	/* 
@@ -95,85 +95,85 @@ public class DatosPersona implements DatosPersonaLocal {
     	/* 
     	    Educacion
     	*/
-    	Persona p22 = new Persona(2523588, LocalDate.parse("18-07-1988", formatter), "Educacion");
+    	Persona p22 = new Persona(15515040, LocalDate.parse("18-07-1988", formatter), "Educacion");
     	this.personas.add(p22);
-    	Persona p23 = new Persona(3679864, LocalDate.parse("07-09-1962", formatter), "Educacion");
+    	Persona p23 = new Persona(68225363, LocalDate.parse("07-09-1962", formatter), "Educacion");
     	this.personas.add(p23);
-    	Persona p24 = new Persona(1489144, LocalDate.parse("01-11-1970", formatter), "Educacion");
+    	Persona p24 = new Persona(99675048, LocalDate.parse("01-11-1970", formatter), "Educacion");
     	this.personas.add(p24);
-    	Persona p25 = new Persona(2608509, LocalDate.parse("26-11-1987", formatter), "Educacion");
+    	Persona p25 = new Persona(60638039, LocalDate.parse("26-11-1987", formatter), "Educacion");
     	this.personas.add(p25);
-    	Persona p26 = new Persona(2795091, LocalDate.parse("21-07-1991", formatter), "Educacion");
+    	Persona p26 = new Persona(50946076, LocalDate.parse("21-07-1991", formatter), "Educacion");
     	this.personas.add(p26);
-    	Persona p27 = new Persona(1045549, LocalDate.parse("06-12-1962", formatter), "Educacion");
+    	Persona p27 = new Persona(45003811, LocalDate.parse("06-12-1962", formatter), "Educacion");
     	this.personas.add(p27);
-    	Persona p28 = new Persona(1428880, LocalDate.parse("15-02-1993", formatter), "Educacion");
+    	Persona p28 = new Persona(26698069, LocalDate.parse("15-02-1993", formatter), "Educacion");
     	this.personas.add(p28);
-    	Persona p29 = new Persona(2020923, LocalDate.parse("19-05-1997", formatter), "Educacion");
+    	Persona p29 = new Persona(17791828, LocalDate.parse("19-05-1997", formatter), "Educacion");
     	this.personas.add(p29);
-    	Persona p30 = new Persona(1177094, LocalDate.parse("21-03-1975", formatter), "Educacion");
+    	Persona p30 = new Persona(49446760, LocalDate.parse("21-03-1975", formatter), "Educacion");
     	this.personas.add(p30);
-    	Persona p31 = new Persona(3822792, LocalDate.parse("30-07-1979", formatter), "Educacion");
+    	Persona p31 = new Persona(33537402, LocalDate.parse("30-07-1979", formatter), "Educacion");
     	this.personas.add(p31);
 
     	/*
     	    Policia
     	*/
-    	Persona p32 = new Persona(4064840, LocalDate.parse("10-08-1988", formatter), "Policia");
+    	Persona p32 = new Persona(79022601, LocalDate.parse("10-08-1988", formatter), "Policia");
     	this.personas.add(p32);
-    	Persona p33 = new Persona(1065893, LocalDate.parse("14-09-1963", formatter), "Policia");
+    	Persona p33 = new Persona(77517355, LocalDate.parse("14-09-1963", formatter), "Policia");
     	this.personas.add(p33);
-    	Persona p34 = new Persona(1184649, LocalDate.parse("25-04-1972", formatter), "Policia");
+    	Persona p34 = new Persona(20178039, LocalDate.parse("25-04-1972", formatter), "Policia");
     	this.personas.add(p34);
-    	Persona p35 = new Persona(3619193, LocalDate.parse("30-03-1967", formatter), "Policia");
+    	Persona p35 = new Persona(35005811, LocalDate.parse("30-03-1967", formatter), "Policia");
     	this.personas.add(p35);
 
     	/*
     	    Adulto
     	*/
-    	Persona p36 = new Persona(3794634, LocalDate.parse("18-07-1987", formatter), "Adulto");
+    	Persona p36 = new Persona(12711807, LocalDate.parse("18-07-1987", formatter), "Adulto");
     	this.personas.add(p36);
-    	Persona p37 = new Persona(1729194, LocalDate.parse("07-09-1966", formatter), "Adulto");
+    	Persona p37 = new Persona(28548183, LocalDate.parse("07-09-1966", formatter), "Adulto");
     	this.personas.add(p37);
-    	Persona p38 = new Persona(1879671, LocalDate.parse("01-11-1980", formatter), "Adulto");
+    	Persona p38 = new Persona(80787204, LocalDate.parse("01-11-1980", formatter), "Adulto");
     	this.personas.add(p38);
-    	Persona p39 = new Persona(1791569, LocalDate.parse("26-11-1983", formatter), "Adulto");
+    	Persona p39 = new Persona(18699766, LocalDate.parse("26-11-1983", formatter), "Adulto");
     	this.personas.add(p39);
-    	Persona p40 = new Persona(3056144, LocalDate.parse("21-07-1990", formatter), "Adulto");
+    	Persona p40 = new Persona(35862722, LocalDate.parse("21-07-1990", formatter), "Adulto");
     	this.personas.add(p40);
-    	Persona p41 = new Persona(2882513, LocalDate.parse("06-12-1970", formatter), "Adulto");
+    	Persona p41 = new Persona(17917060, LocalDate.parse("06-12-1970", formatter), "Adulto");
     	this.personas.add(p41);
-    	Persona p42 = new Persona(732576, LocalDate.parse("15-02-1984", formatter), "Adulto");
+    	Persona p42 = new Persona(99068948, LocalDate.parse("15-02-1984", formatter), "Adulto");
     	this.personas.add(p42);
-    	Persona p43 = new Persona(1672719, LocalDate.parse("19-05-1993", formatter), "Adulto");
+    	Persona p43 = new Persona(21228247, LocalDate.parse("19-05-1993", formatter), "Adulto");
     	this.personas.add(p43);
-    	Persona p44 = new Persona(1517320, LocalDate.parse("21-03-1975", formatter), "Adulto");
+    	Persona p44 = new Persona(64097712, LocalDate.parse("21-03-1975", formatter), "Adulto");
     	this.personas.add(p44);
-    	Persona p45 = new Persona(2015057, LocalDate.parse("30-07-1979", formatter), "Adulto");
+    	Persona p45 = new Persona(57475103, LocalDate.parse("30-07-1979", formatter), "Adulto");
     	this.personas.add(p45);
 
     	/*
     	    Joven
     	*/
-    	Persona p46 = new Persona(3675869, LocalDate.parse("18-07-1990", formatter), "Joven");
+    	Persona p46 = new Persona(41135725, LocalDate.parse("18-07-1990", formatter), "Joven");
     	this.personas.add(p46);
-    	Persona p47 = new Persona(2775788, LocalDate.parse("07-09-1992", formatter), "Joven");
+    	Persona p47 = new Persona(83511145, LocalDate.parse("07-09-1992", formatter), "Joven");
     	this.personas.add(p47);
-    	Persona p48 = new Persona(2593271, LocalDate.parse("01-11-1991", formatter), "Joven");
+    	Persona p48 = new Persona(56296954, LocalDate.parse("01-11-1991", formatter), "Joven");
     	this.personas.add(p48);
-    	Persona p49 = new Persona(3474511, LocalDate.parse("26-11-1992", formatter), "Joven");
+    	Persona p49 = new Persona(97041839, LocalDate.parse("26-11-1992", formatter), "Joven");
     	this.personas.add(p49);
-    	Persona p50 = new Persona(3152549, LocalDate.parse("21-07-1997", formatter), "Joven");
+    	Persona p50 = new Persona(63874587, LocalDate.parse("21-07-1997", formatter), "Joven");
     	this.personas.add(p50);
-    	Persona p51 = new Persona(1417798, LocalDate.parse("06-12-1994", formatter), "Joven");
+    	Persona p51 = new Persona(81165538, LocalDate.parse("06-12-1994", formatter), "Joven");
     	this.personas.add(p51);
-    	Persona p52 = new Persona(2232885, LocalDate.parse("15-02-1999", formatter), "Joven");
+    	Persona p52 = new Persona(44434827, LocalDate.parse("15-02-1999", formatter), "Joven");
     	this.personas.add(p52);
-    	Persona p53 = new Persona(4251065, LocalDate.parse("19-05-2000", formatter), "Joven");
+    	Persona p53 = new Persona(47952931, LocalDate.parse("19-05-2000", formatter), "Joven");
     	this.personas.add(p53);
-    	Persona p54 = new Persona(4112691, LocalDate.parse("21-03-2001", formatter), "Joven");
+    	Persona p54 = new Persona(75454317, LocalDate.parse("21-03-2001", formatter), "Joven");
     	this.personas.add(p54);
-    	Persona p55 = new Persona(2002885, LocalDate.parse("30-07-1996", formatter), "Joven");
+    	Persona p55 = new Persona(60412289, LocalDate.parse("30-07-1996", formatter), "Joven");
     	this.personas.add(p55);
     }
 
